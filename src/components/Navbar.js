@@ -37,7 +37,7 @@ export default function Navbar(props) {
           </ul>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled" aria-disabled="true">Disabled</a>
+          <a className="nav-link disabled" aria-disabled="true">Enabled</a>
         </li>
       </ul>
         <div class="form-check form-switch" >
