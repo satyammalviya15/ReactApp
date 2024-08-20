@@ -27,7 +27,7 @@ export default function Navbar(props) {
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Cropdown
+            Dropdown
           </a>
           <ul className="dropdown-menu">
             <li><a className="dropdown-item" href="/">Action</a></li>
@@ -37,7 +37,7 @@ export default function Navbar(props) {
           </ul>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled" aria-disabled="true">Enabled</a>
+          <a className="nav-link disabled" aria-disabled="true">Disabled</a>
         </li>
       </ul>
         <div class="form-check form-switch" >
